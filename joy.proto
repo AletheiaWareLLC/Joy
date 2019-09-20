@@ -19,7 +19,6 @@ syntax = "proto3";
 option go_package = "github.com/AletheiaWareLLC/joygo";
 option java_outer_classname = "JoyProto";
 option java_package = "com.aletheiaware.joy";
-option optimize_for = LITE_RUNTIME;
 
 package joy;
 
